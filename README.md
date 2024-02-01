@@ -1,4 +1,4 @@
-# Custom Visualization
+# Pyramid Visualization
 
 This project contains a custom visualization for Looker that displays data in a unique way.
 
