@@ -11,7 +11,7 @@ To install the visualization, follow these steps:
 3. Click on the "Visualizations" tab.
 4. Click on the "Add Visualization" button.
 5. Enter a name and description for the visualization.
-6. Click on the "Add File" button and select the `custom_visualization.js` file from the repository.
+6. Click on the "Add File" button and select the `Python.py` file from the repository.
 7. Click on the "Save" button to save the visualization.
 
 ## Usage
